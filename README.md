@@ -71,6 +71,6 @@ Disini anda harus membuat akun git terlebih dahulu untuk membuat repository serv
 ![195979779-f936d543-9d8c-49e7-8e8c-dcedaa119557](https://user-images.githubusercontent.com/115867244/196332474-2d167090-7ddd-4df9-9899-04db065588a0.png)
 - Selesai, jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
-### FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
+#### *FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.*
 
-## Terima Kasih
+### *Terima Kasih*
